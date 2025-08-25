@@ -5,7 +5,7 @@ A Health-care landing page website. 🧑🏼‍⚕️
 
 ## 📷 Screenshot
 
-[!Screenshot](Images/Screenshot.png)
+![Screenshot](Images/Screenshot.png)
 
 ---
 
