@@ -1,4 +1,4 @@
-# Health care landing page
+# Health Care landing page
 A Health-care landing page website. 🧑🏼‍⚕️ 
 
 ---
