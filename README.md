@@ -3,7 +3,7 @@ A Health-care landing page website. 🧑🏼‍⚕️
 
 ---
 
-## 📷 Screenshot
+## 📸 Screenshot
 
 ![Screenshot](Images/Screenshot.png)
 
